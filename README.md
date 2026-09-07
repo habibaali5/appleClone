@@ -53,7 +53,7 @@ Follow these simple steps to get a local copy up and running.
    ```bash
    git clone https://github.com/habibaali5/appleClone.git
    ```
-
+   git branch, git add, git status, git commit, git pull , git push
    ```
 
 ---

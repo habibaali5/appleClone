@@ -7,7 +7,7 @@
 ## 🎨 Visual Preview
 
 
-![](images/home/apple-card.jpg)
+![](images/home/app.png)
 
 ---
 
@@ -46,7 +46,7 @@ Follow these simple steps to get a local copy up and running.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/habibaali5/appleClone.git
    ```
 
    ```
@@ -67,4 +67,4 @@ Distributed under the **Group-3 License**. See `EVANGADI.md` for more informatio
 - **YOHANNES** 
 - **BARNAF**
   
-- **Project Link:** [https://github.com](https://github.com)
+- **Project Link:** [Group-3-of-Group-3](https://github.com/habibaali5/appleClone.git)

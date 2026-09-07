@@ -1,6 +1,6 @@
 # 🚀 Apple.com Project by 
 ```diff
-- ## Kaleb ~ + Habiba
+## - Kaleb ~ + Habiba
 + This line will appear in green
 ! This line will appear in orange
 # This line will appear in gray

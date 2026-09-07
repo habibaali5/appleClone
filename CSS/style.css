@@ -1,8 +1,72 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+/* #region Sr. Developer Kaleb's Styling for Main Section The Code */
+/* ---> general-styles used inside main body <---- */
+.h-580 {
+  height: 580px;
 }
+.pt-180 {
+  padding-top: 180px;
+}
+.pb-200 {
+  padding-bottom: 200px;
+}
+.custom-more-icon ul li a::after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f105";
+  padding-left: 5px;
+}
+.custom-watch-more-icon a:after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f144";
+  padding-left: 5px;
+}
+.custom-hover ul li a:hover {
+  color: black;
+}
+
+/* ---> first-section-style <---- */
+.first-macBook-pro-wrapper {
+  background-color: #fafafa;
+}
+/* ---> second-section-style <---- */
+.second-iPhone-pro-wrapper {
+  background: url("../images/home/iphone11-pro-bg.jpg") center / cover no-repeat;
+}
+
+/*Third Highlight Section */
+.third-iPhone11-wrapper {
+  background: url("../images/home/iphone11-bg.jpg") center / cover no-repeat;
+}
+
+/*Fourth Highlight Section */
+.left-4-img {
+  background: url("../images/home/watch-series-5.jpg") center / cover no-repeat;
+}
+.right-4-img {
+  background: url("../images/home/apple-card.jpg") center / cover no-repeat;
+}
+
+/* ---> fifth-section-style <---- */
+.left-5-img {
+  background: url("../images/home/apple-tv-background.jpg") center / cover
+    no-repeat;
+}
+.right-5-img {
+  background: #000 url("../images/home/air-pods.jpg") no-repeat bottom;
+}
+
+/* ---> sixth-section-style <---- */
+.left-6-img {
+  background: #fafafa url("../images/home/macbook-pro.jpg") no-repeat bottom;
+}
+ .right-6-img {
+  background: url("../images/home/new-ipad.jpg") no-repeat center / cover;
+}
+/* #endregion Kaleb's CSS */
+/* #region Evangadi's given CSS for Header and Footer */
+
+/* General Styling*/
 body {
   font-family: "Montserrat", "inter", sans-serif;
 }

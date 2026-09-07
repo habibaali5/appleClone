@@ -7,7 +7,7 @@
 ## 🎨 Visual Preview
 
 
-![Apple Screen](https://apple.com)
+![](images/home/apple-card.jpg)
 
 ---
 

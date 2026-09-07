@@ -1,5 +1,5 @@
 # 🚀 Apple.com Project by 
-## Kaleb Habiba Abdella Barnaf Yohannes
+## Kaleb ~  Habiba ~  Abdella  ~ Barnaf ~ Yohannes
 
 > This project is apple.com website cloning by Evangadi may 2026 students
 

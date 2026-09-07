@@ -35,9 +35,9 @@
 
 | Category | Technology |
 | :--- | :--- |
-| **Frontend** | JavaScript, CSS, HTML |
-| **Backend** | Node.js|
-| **Database** |  |
+| **Frontend** | JavaScript, CSS, Boostrap, HTML |
+| **Backend** | Node.js, Express|
+| **Database** | MySql |
 | **DevOps** | GitHub|
 
 ---
@@ -53,9 +53,9 @@ Follow these simple steps to get a local copy up and running.
    ```bash
    git clone https://github.com/habibaali5/appleClone.git
    ```
-
+   
    ```
-
+   git branch, git add, git status, git commit, git pull , git push
 ---
 
 ## 📜 License
@@ -66,10 +66,10 @@ Distributed under the **Group-3 License**. See `EVANGADI.md` for more informatio
 
 ## 📮 Contact
 
-- **KALEB** 
-- **HABIBA** 
-- **ABDELLA** 
-- **YOHANNES** 
-- **BARNAF**
+- **KALEB** - kaleb.z.gabriel@gmail.com
+- **HABIBA** - habibaalihabibaali6@gmail.com
+- **ABDELLA** - abdella@gmail.com
+- **YOHANNES** - yohannesmengistu04@gmail.com
+- **BARNAF** - barnaf.humnassa@gmail.com
   
 - **Project Link:** [Group-3-of-Group-3](https://github.com/habibaali5/appleClone.git)

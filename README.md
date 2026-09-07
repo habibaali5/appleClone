@@ -1,14 +1,12 @@
 # 🚀 Apple.com Project by 
-```diff
-## - Kaleb ~ + Habiba
-+ This line will appear in green
-! This line will appear in orange
-# This line will appear in gray
-```
 
 ## Kaleb ~  Habiba ~  Abdella  ~ Barnaf ~ Yohannes
 
-> This project is apple.com website cloning by Evangadi may 2026 students
+```diff
++ > This project is apple.com website cloning by Evangadi may 2026 students
+
+```
+
 
 
 ## 🎨 Visual Preview

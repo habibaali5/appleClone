@@ -1,4 +1,5 @@
-# 🚀 Apple.com Project by KHABY
+# 🚀 Apple.com Project by 
+## KaHaAbBaYo
 
 > This project is apple.com website cloning by Evangadi may 2026 students
 
@@ -13,11 +14,17 @@
 ## ✨ Features
 
 - **Header:** 
-- **Sections:** 
 - **Footer:** 
-- **Responsive:** 
+- **First Section banner:** 
+- **Second section banner:**
+- **Third Section banner:** 
+- **Fouth section left:**
+- **Fourth Section right:** 
+- **Fouth section left:**
+- **Fourth Section right:** 
+- **Fouth section left:**
+- **Fourth Section right:** 
 
----
 
 ## 🛠️ Tech Stack
 
@@ -41,29 +48,23 @@ Follow these simple steps to get a local copy up and running.
    ```bash
    git clone https://github.com
    ```
-2. Navigate into the project directory:
-   ```bash
-   cd repo
+
    ```
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
-
-
-## 📖 Usage Examples
-
-
 
 ---
 
 ## 📜 License
 
-Distributed under the **Group-3 License**. See `LICENSE.md` for more information.
+Distributed under the **Group-3 License**. See `EVANGADI.md` for more information.
 
 ---
 
 ## 📮 Contact
 
-- **Your Name** - Habiba , Kaleb, Yohannes, Barnaf, Abdella
+- **KALEB** 
+- **HABIBA** 
+- **ABDELLA** 
+- **YOHANNES** 
+- **BARNAF**
+  
 - **Project Link:** [https://github.com](https://github.com)
